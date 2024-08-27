@@ -74,7 +74,7 @@ def update_parameters(parameters):
 # Функция для генерации параметров для auditd
 def generate_audit_log():
     """
-    Генерирует параметры на основе введённых параметров и записывает её в файл audit_log.txt.
+    Генерирует лог на основе введённых параметров и записывает её в файл audit_log.txt.
     """
     params = {}
     for param, var in param_vars.items():
