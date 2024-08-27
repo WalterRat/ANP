@@ -1,0 +1,2 @@
+type=SYSCALL msg=audit(1364481363.243:24287): arch=c000003e gid=1000
+
